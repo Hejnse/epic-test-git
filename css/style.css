@@ -1,1 +1,7 @@
-.page-header	
+.page-header	{
+	display: block;
+}
+
+.promo {
+	display: block;
+}
